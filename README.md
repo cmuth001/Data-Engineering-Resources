@@ -10,3 +10,7 @@ Quick links and useful resources for Data Engineering
 
 ### PDF
 1. [Apache Spark in 24 Hours, Sams Teach Yourself](http://io.yaht.net/~lisp/hadoop/9780134456713.pdf)
+
+
+### Other Resource Links
+1. [The Internals of Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
