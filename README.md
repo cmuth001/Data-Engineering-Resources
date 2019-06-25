@@ -7,6 +7,8 @@ Quick links and useful resources for Data Engineering
 3. [Data Engineering — Basics of Apache Airflow — Build Your First Pipeline](https://towardsdatascience.com/data-engineering-basics-of-apache-airflow-build-your-first-pipeline-eefecb7f1bb9)
 4. [Managing Spark Partitions with Coalesce and Repartition](https://medium.com/@mrpowers/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4)
 5. [PySpark Macro DataFrame Methods: join() and groupBy()](https://hackingandslacking.com/pyspark-macro-dataframe-methods-join-and-groupby-477a57836ff)
+6. [A Beginner’s Guide to Apache Spark and Python](https://medium.com/better-programming/beginners-guide-to-apache-spark-and-python-dcdbf5bef64)
+
 ### GitHub Links
 1. [spark-syntax](https://github.com/ericxiao251/spark-syntax) --- Many suggested this is the most useful resource for spark
 
