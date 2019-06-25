@@ -8,7 +8,7 @@ Quick links and useful resources for Data Engineering
 4. [Managing Spark Partitions with Coalesce and Repartition](https://medium.com/@mrpowers/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4)
 
 ### GitHub Links
-1. [spark-syntax](https://github.com/ericxiao251/spark-syntax) --- Many suggested most useful resource for spark
+1. [spark-syntax](https://github.com/ericxiao251/spark-syntax) --- Many suggested this is the most useful resource for spark
 
 ### PDF
 1. [Apache Spark in 24 Hours, Sams Teach Yourself](http://io.yaht.net/~lisp/hadoop/9780134456713.pdf)
