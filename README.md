@@ -16,3 +16,4 @@ Quick links and useful resources for Data Engineering
 
 ### Other Resource Links
 1. [The Internals of Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
+2. [Parquet Files](https://spark.apache.org/docs/latest/sql-data-sources-parquet.html)
