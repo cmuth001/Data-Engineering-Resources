@@ -8,6 +8,7 @@ Quick links and useful resources for Data Engineering
 4. [Managing Spark Partitions with Coalesce and Repartition](https://medium.com/@mrpowers/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4)
 5. [PySpark Macro DataFrame Methods: join() and groupBy()](https://hackingandslacking.com/pyspark-macro-dataframe-methods-join-and-groupby-477a57836ff)
 6. [A Beginner’s Guide to Apache Spark and Python](https://medium.com/better-programming/beginners-guide-to-apache-spark-and-python-dcdbf5bef64)
+7. [Getting Started with Data Lake](https://medium.com/rock-your-data/getting-started-with-data-lake-4bb13643f9)
 
 ### GitHub Links
 1. [spark-syntax](https://github.com/ericxiao251/spark-syntax) --- Many suggested this is the most useful resource for spark
